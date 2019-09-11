@@ -1,0 +1,2 @@
+# Student Registration System
+ This is a website built using JEE7 and JSP with MySQL as database. This website serves the purpose of an examination registration portal where students can register themselves for an examination and also find resources required for the examination to be borrowed in an online library kind of operation. I built this web application along with a couple of my classmates as part of my final year college project during my undergraduate days.
